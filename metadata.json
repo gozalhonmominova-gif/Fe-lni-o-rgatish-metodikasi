@@ -1,0 +1,6 @@
+{
+  "name": "Fe'l Metodikasi — Verb Methodology Interactive Platform",
+  "description": "Pedagogika yo'nalishi talabalari uchun 'Ona tili o'qitish metodikasi' fanidan fe'lni o'rgatish metodikasi bo'yicha interaktiv ta'lim platformasi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
